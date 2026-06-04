@@ -1,3 +1,6 @@
+<p align= "center">
+    <img src="./gojo_gif.gif" width="100%" alt="Gojo Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
 
 <h3 align="center">
