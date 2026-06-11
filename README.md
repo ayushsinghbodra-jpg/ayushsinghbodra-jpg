@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Full Stack Developer | AIML Enthusiast
+B.Tech CSE Student | Full Stack Developer | Cloud Enthusiast
 </h3>
 
 <p align="center">
