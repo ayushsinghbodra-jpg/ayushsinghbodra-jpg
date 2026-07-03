@@ -51,12 +51,6 @@ B.Tech CSE Student | Full Stack Developer | Cloud Enthusiast
 
 ## 🔥 Featured Projects
 
-### 🤖 AI Interviewer
-- Resume Analysis
-- AI-powered Interview Evaluation
-- Voice-based Interviews
-- React + Express + MongoDB
-
 ### 🏠 Airbnb Clone
 - Property Listings
 - Authentication System
